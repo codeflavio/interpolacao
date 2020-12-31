@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\obj\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\obj\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\obj\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\bin\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.deps.json
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\bin\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\bin\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\bin\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.dll
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\bin\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.pdb
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\obj\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.dll
+D:\VISUAL STUDIO\CURSO C#\Interpolação de cadeia de caracteres 1\Interpolação de cadeia de caracteres 1\obj\Debug\netcoreapp2.1\Interpolação de cadeia de caracteres 1.pdb
